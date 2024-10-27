@@ -1,10 +1,10 @@
-links.ibtihaaj.com
+https://links.ibtihaaj.com
 
-links.ibtihaaj.com is a lightweight project containing SEO-friendly links to resources associated with ibtihaaj.com. This HTML file organizes links in a centralized way to enhance SEO and make content easily accessible.
+links.ibtihaaj.com is a lightweight project containing SEO-friendly links to resources associated with [ibtihaaj.com](https://ibtihaaj.com). This HTML file organizes links in a centralized way to enhance SEO and make content easily accessible.
 
 About
 
-This project serves as a single HTML file that directs users to useful resources and articles, while also supporting SEO best practices for https://ibtihaaj.com.
+This project is a single HTML file that directs users to useful resources and articles, while supporting SEO best practices by https://ibtihaaj.com.
 
 Features
 
@@ -15,6 +15,7 @@ Usage
 
 	1.	Clone or download the repository.
 	2.	Open index.html in a browser to view the links.
+ 	3. 	Feel free to use it, modify it as per your need.
 
 Contributing
 
