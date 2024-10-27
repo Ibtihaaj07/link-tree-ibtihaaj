@@ -1,30 +1,30 @@
-https://links.ibtihaaj.com
+#[Link Tree by ibtihaaj.com]https://links.ibtihaaj.com
 
 links.ibtihaaj.com is a lightweight project containing SEO-friendly links to resources associated with [ibtihaaj.com](https://ibtihaaj.com). This HTML file organizes links in a centralized way to enhance SEO and make content easily accessible.
 
-About
+##About
 
 This project is a single HTML file that directs users to useful resources and articles, while supporting SEO best practices by https://ibtihaaj.com.
 
-Features
+##Features
 
-	•	SEO Optimization: Structured links to improve SEO.
-	•	Centralized Management: All links in one file for easy updates.
+- SEO Optimization: Structured links to improve SEO.
+- Centralized Management: All links in one file for easy updates.
 
-Usage
+##Usage
 
-	1.	Clone or download the repository.
-	2.	Open index.html in a browser to view the links.
- 	3. 	Feel free to use it, modify it as per your need.
+- Clone or download the repository.
+- Open index.html in a browser to view the links.
+- Feel free to use it, modify it as per your need.
 
-Contributing
+##Contributing
 
 Contributions are welcome! To contribute:
 
-	1.	Fork the repository.
-	2.	Make your updates to index.html.
-	3.	Submit a pull request.
+1. Fork the repository.
+2. Make your updates to index.html.
+3. Submit a pull request.
 
-License
+##License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
